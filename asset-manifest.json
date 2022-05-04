@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-snake-hooks/static/css/main.584e223a.css",
+    "main.js": "/react-snake-hooks/static/js/main.f8f2a87e.js",
+    "static/js/787.c1e85d42.chunk.js": "/react-snake-hooks/static/js/787.c1e85d42.chunk.js",
+    "index.html": "/react-snake-hooks/index.html",
+    "main.584e223a.css.map": "/react-snake-hooks/static/css/main.584e223a.css.map",
+    "main.f8f2a87e.js.map": "/react-snake-hooks/static/js/main.f8f2a87e.js.map",
+    "787.c1e85d42.chunk.js.map": "/react-snake-hooks/static/js/787.c1e85d42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.584e223a.css",
+    "static/js/main.f8f2a87e.js"
+  ]
+}
